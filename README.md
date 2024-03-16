@@ -1,5 +1,7 @@
 Diabetes Predictive Analysis 📊
+
 Problem Statement 🚩
+
 Diabetes is a growing global health crisis, with millions of new diagnoses each year. Early detection and management are crucial to prevent complications, yet many individuals remain undiagnosed until symptoms become severe. This project aims to address the need for an efficient, scalable, and accessible means of predicting diabetes risk based on health metrics, potentially serving as a tool for early intervention and awareness.
 
 Project Aim 🎯
